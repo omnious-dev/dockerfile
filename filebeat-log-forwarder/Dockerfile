@@ -14,7 +14,7 @@
 #     omniousdev/filebeat-log-forwarder
 #
 
-FROM docker.elastic.co/beats/filebeat:6.2.0
+FROM docker.elastic.co/beats/filebeat:6.2.2
 LABEL maintainer "Omnious Dev <dev@omnious.com>"
 
 # Copy configurations
